@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/prometheansacrifice/esy-packages/_apis/build/status/prometheansacrifice.esy-texinfo?branchName=master)](https://dev.azure.com/prometheansacrifice/esy-packages/_build/latest?definitionId=33&branchName=master)
+
 This is the README file for the GNU Texinfo distribution.  Texinfo is
 the preferred documentation format for GNU software.
 
